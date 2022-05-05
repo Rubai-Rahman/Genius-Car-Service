@@ -1,0 +1,10 @@
+.service{
+    background-color: rgb(201, 214, 226);
+    border-radius: 20px; 
+    outline: 1px solid rgb(128, 152, 226);
+    outline-offset: 3px;
+}
+.service img{
+    width: 400px;
+    height: 333px;
+}
